@@ -31,7 +31,7 @@ To reproduce the results or use the models, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/time-series-Euro-USD.git
+git@github.com:jyotsna2411/Euro-USD-Forecasting-Price-Time-Series-Data-.git
 
 cd time-series-Euro-USD
 
